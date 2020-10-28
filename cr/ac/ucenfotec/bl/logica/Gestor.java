@@ -8,5 +8,9 @@ package cr.ac.ucenfotec.bl.logica;
 
 
 public class Gestor {
+    
+    public Gestor(){
+        
+    }
 
 }

@@ -6,12 +6,15 @@
 
 package tareadosejerciciocuatro;
 
+import cr.ac.ucenfotec.bl.controlador.Controlador;
+
 
 public class TareaDosEjercicioCuatro {
 
     
     public static void main(String[] args) {
-        
+        Controlador controlador = new Controlador();
+        controlador.ejecutar();
     }
 
 }
